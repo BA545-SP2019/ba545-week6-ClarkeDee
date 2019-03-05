@@ -1,4 +1,3 @@
-
 # This week's Schedule (3/3 - 3/9)
 
 ## Lecture
